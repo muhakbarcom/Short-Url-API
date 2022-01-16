@@ -49,7 +49,7 @@ if (isset($_POST['info'])) {
         <div class="row">
           <div class="col-md-12">
             <hr>
-            <form action="02_a_2193013.php" method="post">
+            <form action="/" method="post">
               <div class="row d-flex justify-content-center">
                 <div class="col-md-8">
                   <div class="form-group">
@@ -97,7 +97,7 @@ if (isset($_POST['info'])) {
         <div class="row">
           <div class="col-md-12">
             <hr>
-            <form action="02_a_2193013.php" method="post">
+            <form action="/" method="post">
               <div class="row d-flex justify-content-center">
                 <div class="col-md-8">
                   <div class="form-group">
